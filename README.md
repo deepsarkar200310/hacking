@@ -51,3 +51,6 @@ here you will observe(adduser) its a command adder
 and rm is a command remover
 here which is used to know path or location of directory or file eg: which ls
 
+
+su : switch user
+su root : tis gives ou all access to computer
